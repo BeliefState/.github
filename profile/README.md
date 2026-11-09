@@ -1,5 +1,3 @@
-[![BeliefState — Connect with any agent](https://beliefstate.ai/brand/beliefstate-x-header-agent-template-v9-mobile-lowered.png)](https://beliefstate.ai)
-
 # BeliefState
 
 **Connect your agent to the thinking behind the market.**
