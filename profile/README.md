@@ -1,4 +1,4 @@
-[![BeliefState wordmark over an illustrated city skyline](https://beliefstate.ai/brand/beliefstate-social-preview-v9.png)](https://beliefstate.ai)
+[![BeliefState — Connect with any agent](https://beliefstate.ai/brand/beliefstate-x-header-agent-template-v9-mobile-lowered.png)](https://beliefstate.ai)
 
 # BeliefState
 
